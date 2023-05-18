@@ -7,6 +7,7 @@ import BottomUp from "./components/BottomUp";
 import SelectSemester from "./components/SelectSemester";
 import SemData from "./components/SemData";
 import SellerComp from "./components/SellerComp";
+import SingleItem from "./components/SingleItem";
 
 const Stack = createNativeStackNavigator();
 
@@ -49,6 +50,12 @@ const App = () => {
         <Stack.Screen
           name="Seller"
           component={SellerComp}
+          options={{ headerShown: false, animation: "none" }}
+        />
+
+        <Stack.Screen
+          name="SingleItem"
+          component={SingleItem}
           options={{ headerShown: false, animation: "none" }}
         />
       </Stack.Navigator>
