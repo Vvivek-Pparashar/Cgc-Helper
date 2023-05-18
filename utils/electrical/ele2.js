@@ -1,4 +1,4 @@
-const cse1 = {
+const ele2 = {
   data: [
     {
       heading: "Physics",
@@ -222,55 +222,25 @@ const cse1 = {
       ],
     },
     {
-      heading: "M1",
+      heading: "M2",
       data: [
-        {
-          subHead: "Lords Sample Paper",
-          data: [
-            {
-              name: "Sample Paper",
-              nameLink:
-                "https://drive.google.com/file/d/1jsx2raKIbRGlC8H8wxeKSh03ng2pjfHw/view?usp=sharing",
-            },
-          ],
-        },
         {
           subHead: "Book",
           data: [
             {
-              name: "General Theorems",
+              name: "Unit-1",
               nameLink:
-                "https://drive.google.com/file/d/1QVbXeb3B-vxv_lZantjvToBgYZ85YySA/view?usp=sharing",
+                "https://drive.google.com/file/d/1udMeqzVhhOiLQh7k2nagBT4s5AMPUz_3/view?usp=sharing",
             },
             {
-              name: "Intermediate Form",
+              name: "Unit-2",
               nameLink:
-                "https://drive.google.com/file/d/1HhaGC3O7PEkCVnRourm0fz0oXR7oG801/view?usp=sharing",
+                "https://drive.google.com/file/d/13wZiTEN-oUarEx06OpIAtxuKx_u_Mqr0/view?usp=sharing",
             },
             {
-              name: "Maxima and Minima",
+              name: "Unit-3",
               nameLink:
-                "https://drive.google.com/file/d/1maSe7YgxMcjXIwLYHW5TAL6H6wheL9JV/view?usp=sharing",
-            },
-          ],
-        },
-        {
-          subHead: "",
-          data: [
-            {
-              name: "Definite and Indefinite ",
-              nameLink:
-                "https://drive.google.com/file/d/1coDIkwOpG876xVkJd0_TkwGy8UJZhzMD/view?usp=sharing",
-            },
-            {
-              name: "Volume and Surface",
-              nameLink:
-                "https://drive.google.com/file/d/1aS89VbSljLTvTAXBrzXg0ZFZMxAlOWA-/view?usp=sharing",
-            },
-            {
-              name: "Eigen Value and Vector",
-              nameLink:
-                "https://drive.google.com/file/d/1BKXHio5Iu337-s8blfuom-jpWknFRLNT/view?usp=sharing",
+                "https://drive.google.com/file/d/1TxQcWmJTcZT3EHydwkGjYptRBB83yU3Q/view?usp=sharing",
             },
           ],
         },
@@ -278,39 +248,19 @@ const cse1 = {
           subHead: "",
           data: [
             {
-              name: "Beta and Gamma",
+              name: "Unit-4",
               nameLink:
-                "https://drive.google.com/file/d/1NO_5esnI6v0OJXrJcJ2dz3IB-8hUl8sT/view?usp=sharing",
+                "https://drive.google.com/file/d/14e3mQUIAYrpWKc6iXMZ3QKnsanNAmgBC/view?usp=sharing",
             },
             {
-              name: "Vector Space",
+              name: "Unit-5",
               nameLink:
-                "https://drive.google.com/file/d/1teYTl_pLZDBMhzc8KJ08x1MegOF5Tvq4/view?usp=sharing",
+                "https://drive.google.com/file/d/1u97rLbgMIw30bVgKzaPIlyOjuvrvi1lz/view?usp=sharing",
             },
             {
-              name: "Matrices",
+              name: "Unit-6",
               nameLink:
-                "https://drive.google.com/file/d/1DNW2bIvx1tfphrjAyLcaQHHXUjqWksqR/view?usp=sharing",
-            },
-          ],
-        },
-        {
-          subHead: "Handwritten",
-          data: [
-            {
-              name: "Beta and Gamma -1",
-              nameLink:
-                "https://drive.google.com/file/d/1-vDeIDgMbbh6eoaJx13jqRF-Z8GcSzHf/view?usp=sharing",
-            },
-            {
-              name: "Matrices -1",
-              nameLink:
-                "https://drive.google.com/file/d/1kW6S40T6-qD9O6u2rxmFFbP5lI8NmnI7/view?usp=sharing",
-            },
-            {
-              name: "Improper Integral",
-              nameLink:
-                "https://drive.google.com/file/d/11IzupfIVZHKoHKDuoFZd2rOaWpvN_oZw/view?usp=sharing",
+                "https://drive.google.com/file/d/1MuOHpA11Zmfyikff3ahCHirKpczy1XVg/view?usp=sharing",
             },
           ],
         },
@@ -318,19 +268,19 @@ const cse1 = {
           subHead: "",
           data: [
             {
-              name: "Linear Algebra",
+              name: "Unit-7",
               nameLink:
-                "https://drive.google.com/file/d/1ZjknHIFMTrVcu7LsW4lPZkZcBAgidB1_/view?usp=sharing",
+                "https://drive.google.com/file/d/1tbpcWB3Bx8QJnIk4n9_00PE31v88AGdn/view?usp=sharing",
             },
             {
-              name: "Volume and Surface",
+              name: "Unit-8",
               nameLink:
-                "https://drive.google.com/file/d/1a6_6idLYmKe6T2q4p_DrxSJc98D2RkOu/view?usp=sharing",
+                "https://drive.google.com/file/d/19iOHLdVP2b58EPvbIOz2i723aeiDJz3f/view?usp=sharing",
             },
             {
-              name: "Linear Dependence or Independence",
+              name: "Unit-9",
               nameLink:
-                "https://drive.google.com/file/d/1jhCH0MN4uENs0q-CPBfXKICKRL3DBkDh/view?usp=sharing",
+                "https://drive.google.com/file/d/1YxDOKRcmZn64OIKLATCcvsiIQ8t-Wa0G/view?usp=sharing",
             },
           ],
         },
@@ -338,19 +288,114 @@ const cse1 = {
           subHead: "",
           data: [
             {
-              name: "Beta and Gamma -2",
+              name: "Unit-10",
               nameLink:
-                "https://drive.google.com/file/d/1sPLszbiGZYlgGgWGMv84O6b3uw0GV0RI/view?usp=sharing",
+                "https://drive.google.com/file/d/1Bucv5mcMraBbTi3c0XyV2O8ArsjLnAd5/view?usp=sharing",
             },
             {
-              name: "Vector Space",
+              name: "Unit-11",
               nameLink:
-                "https://drive.google.com/file/d/1LOdShubr9u-XjvPcxAtGxyvqcT_PpNbL/view?usp=sharing",
+                "https://drive.google.com/file/d/1gAmH6rEfiVqMcniMkEm_SHRAn4h4R3Nw/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "",
+          data: [
+            {
+              name: "Unit-12",
+              nameLink:
+                "https://drive.google.com/file/d/16PYm6lRAlFLVqhD9xI6L4Rkdjd3JjAgm/view?usp=sharing",
             },
             {
-              name: "Matrices -2",
+              name: "Unit-13",
               nameLink:
-                "https://drive.google.com/file/d/1FPOJ9V-03vUmH2Czh-95Ad5q8B9yvvRd/view?usp=sharing",
+                "https://drive.google.com/file/d/1MgkoSgyQlNAyq8I1cCGvYNn3FM-IoEsO/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "",
+          data: [
+            {
+              name: "Unit-14",
+              nameLink:
+                "https://drive.google.com/file/d/1yo2q5EAj_H0EKQVwqq7D6gsUe3TMblx3/view?usp=sharing",
+            },
+            {
+              name: "Unit-15",
+              nameLink:
+                "https://drive.google.com/file/d/1QNvUiFxsigkFOX4f9uFMZ1DgUaGBxh5r/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "HandWritten",
+          data: [
+            {
+              name: "Measure of Central Tendency",
+              nameLink:
+                "https://drive.google.com/file/d/19HV8FJMg_YAeKoxMHjPOJZcOZGaEMCRJ/view?usp=sharing",
+            },
+            {
+              name: "Curve Fitting ",
+              nameLink:
+                "https://drive.google.com/file/d/1YfaJCexrReBoMKzs5GMm0l6bxFuz5lqx/view?usp=sharing",
+            },
+            {
+              name: "Continous Random Variable",
+              nameLink:
+                "https://drive.google.com/file/d/1O7oxrYcXm2WWjaqWyY0CIdy7WxM9pLhm/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "",
+          data: [
+            {
+              name: "Co-relation Analysis",
+              nameLink:
+                "https://drive.google.com/file/d/1GbPA8O_i1thE80IBueqZ9_j4gWB9g2tY/view?usp=sharing",
+            },
+            {
+              name: "Exponential Distribution",
+              nameLink:
+                "https://drive.google.com/file/d/1vdBXoEUt_0_1i6QxHE0P9HIehFaLma-I/view?usp=sharing",
+            },
+            {
+              name: "F and CHI and Large Test",
+              nameLink:
+                "https://drive.google.com/file/d/1AF4mFGWBLkD9wRqhBr_qd0M_vBFM37Z_/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "",
+          data: [
+            {
+              name: "Normal Distribution",
+              nameLink:
+                "https://drive.google.com/file/d/12MHo2YeXMCjCI-S4L0l_4TMh8v_t7dun/view?usp=sharing",
+            },
+            {
+              name: "Probability Distribution",
+              nameLink:
+                "https://drive.google.com/file/d/1x74Fy-Njztej7ZTA0Ar26Iwd4jcnPk_q/view?usp=sharing",
+            },
+            {
+              name: "Sample Theory",
+              nameLink:
+                "https://drive.google.com/file/d/1SpCiI4LJFoQ6gOjN1pg5MTrMCC1UDmj3/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "",
+          data: [
+            {
+              name: "Test on Single Mean and Difference of Proportion",
+              nameLink:
+                "https://drive.google.com/file/d/1NbsXSoTsPXJ1AZ2KeDCSJnuTqC0K8U7o/view?usp=sharing",
             },
           ],
         },
@@ -359,4 +404,4 @@ const cse1 = {
   ],
 };
 
-export {cse1}
+export { ele2 };

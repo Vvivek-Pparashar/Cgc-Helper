@@ -4,7 +4,7 @@ import { Text, StyleSheet, View, ScrollView } from "react-native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 const Stack = createNativeStackNavigator();
 
-const CardStuff = ({ navigation, data }) => {
+const CardStuff = ({ navigation, data, link }) => {
   return (
     <ScrollView horizontal showsHorizontalScrollIndicator={false}>
       <View style={styles.cardcont}>
@@ -12,7 +12,7 @@ const CardStuff = ({ navigation, data }) => {
           return (
             <TouchableWithoutFeedback
               onPress={() =>
-                navigation.navigate("Semester", {
+                navigation.navigate(link, {
                   course: item.name,
                 })
               }

@@ -14,12 +14,6 @@ const BottomUp = ({navigation}) => {
       <Text style={styles.btmupfnt}>Vivek</Text>
       <Text style={styles.btmupfnt}>Vivek</Text>
       <Text style={styles.btmupfnt}>Vivek</Text>
-      <Text style={styles.btmupfnt}>Vivek</Text>
-      <Text style={styles.btmupfnt}>Vivek</Text>
-      <Text style={styles.btmupfnt}>Vivek</Text>
-      <Text style={styles.btmupfnt}>Vivek</Text>
-      <Text style={styles.btmupfnt}>Vivek</Text>
-      <Text style={styles.btmupfnt}>Vivek</Text>
 
       <View style={{ padding: 20 }} />
     </BottomSheet>

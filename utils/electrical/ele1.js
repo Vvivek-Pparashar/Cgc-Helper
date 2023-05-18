@@ -1,7 +1,7 @@
-const cse1 = {
+const ele1 = {
   data: [
     {
-      heading: "Physics",
+      heading: "Chemistry",
       data: [
         {
           subHead: "Lords Sample Paper",
@@ -9,213 +9,257 @@ const cse1 = {
             {
               name: "Sample Paper",
               nameLink:
-                "https://drive.google.com/file/d/1UyN1L_N9SNi9S0xfBcfO_W6FfcuYcZd1/view?usp=sharing",
+                "https://drive.google.com/file/d/1SR-_hC_rG0DpzTdbUN11aHEAzlCYYkO6/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "Physics Book",
+          subHead: "Paper",
+          data: [
+            {
+              name: "Dec 2019",
+              nameLink:
+                "https://drive.google.com/file/d/15gT25vj36oPXQNC2WPWhmtE-o6N-_6IH/view?usp=sharing",
+            },
+            {
+              name: "Question Bank",
+              nameLink:
+                "https://drive.google.com/file/d/1Q1EBs4HnqWdYPN5wq8bZZ5blPfLgge40/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "Intermolecular Force",
           data: [
             {
               name: "Book",
               nameLink:
-                "https://drive.google.com/file/d/1qYAJynRk8yMLHZdEYCi4mt8ap8NrpnOn/view?usp=sharing",
+                "https://drive.google.com/file/d/1NV3fYlqJ-NRTbp3z80oGUQPyKc5kWN8v/view?usp=sharing",
             },
             {
-              name: "Free Electron Theory",
+              name: "Teachers Notes",
               nameLink:
-                "https://drive.google.com/file/d/1f4r5-wB_G9JyCxHN8vR3dDGSj_Wrv3hg/view?usp=sharing",
-            },
-          ],
-        },
-        {
-          subHead: "Papers",
-          data: [
-            {
-              name: "MST 1 (2019)",
-              nameLink:
-                "https://drive.google.com/file/d/1Tp-Z_TmTdlI7w1snl7rOHTzwAdClNlzE/view?usp=sharing",
-            },
-            {
-              name: "MST 2 (2019)",
-              nameLink:
-                "https://drive.google.com/file/d/1NzCIvUdz0U-UbXnMMzPfcrfATNG97RCJ/view?usp=sharing",
-            },
-            {
-              name: "Final Paper (2019)",
-              nameLink:
-                "https://drive.google.com/file/d/1q5a6kyF7K25sQL88RbrUc4UWHZapGjch/view?usp=sharing",
+                "https://drive.google.com/file/d/1YXaZlL4sZcfZjg-0SGExaSEBZcB7sDo0/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "Unit-1",
+          subHead: "Periodic Properties",
           data: [
             {
-              name: "Teacher's Notes",
+              name: "Teachers Notes",
               nameLink:
-                "https://drive.google.com/file/d/1q2NAJpFQJyw_BtpnUiYp2mS1fixjadTZ/view?usp=sharing",
+                "https://drive.google.com/file/d/17O1rxTSTky6S348WhojXA4JoE2-k27yo/view?usp=sharing",
             },
             {
               name: "Handwritten",
               nameLink:
-                "https://drive.google.com/file/d/1SpgrcmCfhfayvbAHu32y6Kf2eTYwoVse/view?usp=sharing",
+                "https://drive.google.com/file/d/1lKHkxrYGMQpV9bSmDM4dXLB_SEnGBhLf/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "Unit-2",
+          subHead: "Spectroscopy",
           data: [
             {
-              name: "Teacher's Notes",
+              name: "Book",
               nameLink:
-                "https://drive.google.com/file/d/1RxMFPCtqYmkP2cTr6ZgtQ2Dc3TIzRrBM/view?usp=sharing",
+                "https://drive.google.com/file/d/1i98A79cR4SASeaqNbbmGiE1x4rYPu2Kz/view?usp=sharing",
             },
             {
               name: "Handwritten",
               nameLink:
-                "https://drive.google.com/file/d/1Jwbrzo7YVdzYTMy8o9lK6HtrbxMZIZO_/view?usp=sharing",
+                "https://drive.google.com/file/d/1DlYWWFUh2NViCVVzlTlcO-mT0zmuV8kI/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "Unit-3",
+          subHead: "Steriochemistry",
           data: [
             {
-              name: "Teacher's Notes",
+              name: "Book",
               nameLink:
-                "https://drive.google.com/file/d/1ljJQN_ZBsFRW6S3dysv201kbDbnL56Wm/view?usp=sharing",
+                "https://drive.google.com/file/d/1iRAQItDl-GwT2X1N9QiIIgx5oy6F6XEx/view?usp=sharing",
             },
             {
-              name: "Handwritten",
+              name: "Teachers Notes",
               nameLink:
-                "https://drive.google.com/file/d/1kV9VxNEw008TMLIOi1LsOUz6z-pRGHIh/view?usp=sharing",
+                "https://drive.google.com/file/d/1XjSeI6kwOTsiC3pXX-2N9BH7r-b9PVta/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "Unit-4",
+          subHead: "Use of Free Energy",
           data: [
             {
-              name: "Teacher's Notes",
+              name: "Teachers Notes",
               nameLink:
-                "https://drive.google.com/file/d/1N7KhJFjz5VqNwy9942SzaBzBjAHuWtKy/view?usp=sharing",
+                "https://drive.google.com/file/d/1KC9bv3P7pmz8ZeB6psCfj1Rn_dLTfLou/view?usp=sharing",
             },
             {
               name: "Handwritten",
               nameLink:
-                "https://drive.google.com/file/d/1lZkVBtaZ6xLYEHgO_VWfX_CoASOe6jZk/view?usp=sharing",
+                "https://drive.google.com/file/d/1JGk7THyydHNXQlQ1wWliDuRzN1IyL9rA/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "Water Chemistry",
+          data: [
+            {
+              name: "Book",
+              nameLink:
+                "https://drive.google.com/file/d/1T5UbECG7qEHiJFCcV7TukNO5pcVH2olU/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "Organic Reaction",
+          data: [
+            {
+              name: "Teachers Notes",
+              nameLink:
+                "https://drive.google.com/file/d/1LSPgJRuuPqiKVuQrQktzekxQy60s4-9_/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "Atomic Structure",
+          data: [
+            {
+              name: "Printed",
+              nameLink:
+                "https://drive.google.com/file/d/1_j2czW90mfKez_A0oBdQgiExmFAJel3_/view?usp=sharing",
+            },
+            {
+              name: "Handwritten",
+              nameLink:
+                "https://drive.google.com/file/d/1G58wq9nL3ug-x2AAnlhnrggJUanaU1go/view?usp=sharing",
             },
           ],
         },
       ],
     },
-
     {
-      heading: "BEE",
+      heading: "PPS",
       data: [
         {
-          subHead: "Paper",
+          subHead: "Lords Sample Paper",
           data: [
             {
-              name: "MST-1 (2019)",
+              name: "Sample Paper",
               nameLink:
-                "https://drive.google.com/file/d/17xPqbgZBvllenPuzc9NXgcqGIvLNs5Rm/view?usp=sharing",
+                "https://drive.google.com/file/d/13MqyG4b1rgeIztlDPcdnEIp2N0GPI0_I/view?usp=sharing",
             },
             {
-              name: "MST-2 (2019)",
+              name: "May 2019 Final",
               nameLink:
-                "https://drive.google.com/file/d/1skDOp0JVnAxD3_woxbKwh7hYcGZMEUpc/view?usp=sharing",
+                "https://drive.google.com/file/d/1Q8005EDPdhhX9NHGrGxJ-JYoe70H02pZ/view?usp=sharing",
             },
             {
-              name: "Final Paper (2019)",
+              name: "May 2020 Final",
               nameLink:
-                "https://drive.google.com/file/d/1iGwGUPm1IOho68j0A23zCT6Wwc01mv33/view?usp=sharing",
+                "https://drive.google.com/file/d/12ExNGZ6MduWUASKglw42yS48mZ0dszRa/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "A.C. Circuit",
+          subHead: "Book and Lab File",
           data: [
             {
               name: "Book",
               nameLink:
-                "https://drive.google.com/file/d/1X1ZYjCLZuKZy9uUuBpDRCkCQa0TO_TWE/view?usp=sharing",
+                "https://drive.google.com/file/d/18Xl6fLX71NEqRSYtDYfnGihua--u0AUk/view?usp=sharing",
             },
             {
-              name: "Handwritten",
+              name: "Lab File",
               nameLink:
-                "https://drive.google.com/file/d/1irOqs-cgFNbe_wjufYhamg0ddVZdbVdl/view?usp=sharing",
-            },
-          ],
-        },
-        {
-          subHead: "D.C. Circuit",
-          data: [
-            {
-              name: "Book",
-              nameLink:
-                "https://drive.google.com/file/d/1lU7yLUw29wmejLJYUxuL8i1MjiTcEMKL/view?usp=sharing",
-            },
-            {
-              name: "Handwritten",
-              nameLink:
-                "https://drive.google.com/file/d/1BiEfsoq3GaEYYTHxtB_Nw1eYZnO7Y8tE/view?usp=sharing",
+                "https://drive.google.com/file/d/17JOIUTgw67942mCfwVceX2gQI-tD9Szn/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "Transformer",
+          subHead: "Students Notes",
           data: [
             {
-              name: "Book",
+              name: "Unit-1",
               nameLink:
-                "https://drive.google.com/file/d/1XQbmO2cokFvI9Cog780VdFy-kI9E3yW7/view?usp=sharing",
+                "https://drive.google.com/file/d/1Wz5r8_eFy9Dl5i9AFS7EKFr6KPZL7Qv1/view?usp=sharing",
             },
             {
-              name: "Handwritten -1",
+              name: "Unit-2",
               nameLink:
-                "https://drive.google.com/file/d/1ix1H15mFj6FnpFlNMZSYOdOQQTO-XcJG/view?usp=sharing",
+                "https://drive.google.com/file/d/1Eg7H-peWfPdh1mcHu3zN5celDAwwzlgk/view?usp=sharing",
             },
             {
-              name: "Handwritten -2",
+              name: "Unit-3",
               nameLink:
-                "https://drive.google.com/file/d/1qMUDvZFaXAMqcvNExrYLR6uneoFamZw5/view?usp=sharing",
+                "https://drive.google.com/file/d/1W916Qdc2FzZVU4KcSWBEbqf2uZjkMiwt/view?usp=sharing",
+            },
+            {
+              name: "Unit-4",
+              nameLink:
+                "https://drive.google.com/file/d/1zluYTPJoZ4EF5M5ezF39fsHaaxpln6aF/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "Electrical Mechnies",
+          subHead: "Teachers Notes",
           data: [
             {
-              name: "Book-1",
+              name: "Unit-1",
               nameLink:
-                "https://drive.google.com/file/d/1EbcnnM2rDemipQ-rmO5rqxiR0Zv9WZ2Q/view?usp=sharing",
+                "https://drive.google.com/file/d/1irtch89idHGDIN0v50b_uNUIlYQGwFOD/view?usp=sharing",
             },
             {
-              name: "Book-2",
+              name: "Unit-2",
               nameLink:
-                "https://drive.google.com/file/d/1dlTm-7ReCDtBka6o8jk2ygTyorRlpOwO/view?usp=sharing",
+                "https://drive.google.com/file/d/10CG247mZbaKfy07XOdaYI9qxLq9MYC76/view?usp=sharing",
             },
             {
-              name: "Handwritten",
+              name: "Unit-3",
               nameLink:
-                "https://drive.google.com/file/d/1ym4MsEjHyrilZBzsUotu3dpGvqBHzOG7/view?usp=sharing",
+                "https://drive.google.com/file/d/1xs3DqVL2t8WvKNqRUCLhbI6GwP0hRlLq/view?usp=sharing",
             },
           ],
         },
         {
-          subHead: "Electrical Installation",
+          subHead: "",
           data: [
             {
-              name: "Book",
+              name: "Unit-4",
               nameLink:
-                "https://drive.google.com/file/d/1nm845HuG2GgRtBkftodr7paNJwIbFsmg/view?usp=sharing",
+                "https://drive.google.com/file/d/1q-6gcfIZCkD1UAnKNiEBcs_zsgPB6Gta/view?usp=sharing",
             },
             {
-              name: "Handwritten",
+              name: "Unit-5",
               nameLink:
-                "https://drive.google.com/file/d/14t_kiprg3qhSg4MplZt8tYLda8_-Tou4/view?usp=sharing",
+                "https://drive.google.com/file/d/1xTPG-zgW7QVho9LHXliorLFXjVrv699h/view?usp=sharing",
+            },
+            {
+              name: "Unit-6",
+              nameLink:
+                "https://drive.google.com/file/d/1W4GbKaICO6JWZErkx2iy996Mfr0xWhi7/view?usp=sharing",
+            },
+          ],
+        },
+        {
+          subHead: "",
+          data: [
+            {
+              name: "Unit-7",
+              nameLink:
+                "https://drive.google.com/file/d/1KUC-T69JYI9EUc0eQCB-dOApcnf1Lq70/view?usp=sharing",
+            },
+            {
+              name: "Unit-8",
+              nameLink:
+                "https://drive.google.com/file/d/1CmByqE5Ilge16Nvy7AdZzqV3apQGw-wu/view?usp=sharing",
+            },
+            {
+              name: "Unit-9",
+              nameLink:
+                "https://drive.google.com/file/d/1yyE_us3CiI_Nbg1HbI7ujREqBXnmZa5P/view?usp=sharing",
             },
           ],
         },
@@ -359,4 +403,4 @@ const cse1 = {
   ],
 };
 
-export {cse1}
+export { ele1 };

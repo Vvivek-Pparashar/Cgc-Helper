@@ -1,4 +1,4 @@
-const cse1 = {
+const it1 = {
   data: [
     {
       heading: "Physics",
@@ -359,4 +359,4 @@ const cse1 = {
   ],
 };
 
-export {cse1}
+export { it1 };
